@@ -1,0 +1,29 @@
+= Ratpack: 编写一个 Hello World 应用（Java）
+rain
+2019-01-17
+
+本文介绍如何使用 Ratpack 创建一个 Web 应用，使用 Java 语言编写一个简单的 “Hello World”，使用 Gradle 构建并运行起来。
+
+Ratpack 是一组 Java 库，可以促进快速、高效、可演化和经过良好测试的 HTTP 应用程序。
+它建立在高性能和高效的 Netty 事件驱动的网络引擎上。
+
+
+== 介绍
+
+[%hardbreaks]
+内容简介： 一个简单的 Ratpack Web 应用示例
+语言框架： Java、Ratpack
+难度级别： L1
+阅读时间： 10 分钟
+
+== 工具准备
+
+* Java SDK : 8.0
+* Ratpack : 1.6.0
+* Gradle : 4.10.2
+* IntelliJ IDEA : 2018.3
+* Curl / HTTPie
+
+== 教程
+
+网址： https://springdev.io/guides/ratpack/ratpack-hello-world-java/[ratpack-hello-world-java]
